@@ -10,16 +10,17 @@ I started my journey of learning data science through various platforms, includi
 ✅ **Geospatial Analysis**  
 
 ### 🧷 Datasets 
-- 🟢 [Geospatial Learn Course Data](https://www.kaggle.com/datasets/alexisbcook/geospatial-learn-course-data)  
-- 🟢 [Data for Data Visualisation](https://www.kaggle.com/datasets/alexisbcook/data-for-datavis)
-- 🟢 [Mobile Price Classification Dataset](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
-- 🟢 [Melbourne Housing Snapshot Dataset](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
-- 🟢 [Melbourne Housing Snapshot Dataset](https://www.kaggle.com/competitions/home-data-for-ml-course)
-- 
+- ⭐ [Geospatial Learn Course Data](https://www.kaggle.com/datasets/alexisbcook/geospatial-learn-course-data)  
+- ⭐ [Data for Data Visualisation](https://www.kaggle.com/datasets/alexisbcook/data-for-datavis)
+- ⭐ [Mobile Price Classification Dataset](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
+- ⭐ [Melbourne Housing Snapshot Dataset](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
+- ⭐ [Housing Prices Competition For Kaggle Learn User Dataset](https://www.kaggle.com/competitions/home-data-for-ml-course)
+  
 
 ### 💡 About This Repository
-I created this repo to document my journey in learning data science on Kaggle. I believe that learning from hands-on practice and real projects is the best way to understand concepts
-and this repo will be updated as I progress.
+- I created this repo to document my journey in learning data science on Kaggle.
+- I believe that learning from hands-on practice and real projects is the best way to understand concepts
+- This repo will be updated as I progress.
 
 📫 Contact me: nikenyudhaa22@gmail.com  
 
