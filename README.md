@@ -3,7 +3,6 @@ I started my journey of learning data science through various platforms, includi
 
 ### 📁 Repository Structure
 - ⭐ Notebooks ->  _Contains notebooks from courses & exercises on Kaggle_
-- ⭐ Projects -> _Contains projects that I try and develop_
 - ⭐ Datasets ->  _A collection of datasets that I use in exercises & projects_
 
 ### 🔥 Skills & Tools Learned  
