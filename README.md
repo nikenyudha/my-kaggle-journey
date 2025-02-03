@@ -15,9 +15,8 @@ I started my journey of learning data science through various platforms, includi
 ✅ **Geospatial Analysis**  
 
 ### 💡 About This Repository
--🔹 I created this repo to document my journey in learning data science on Kaggle
--🔹 I believe that learning from hands-on practice and real projects is the best way to understand concepts
--🔹 This repo will be updated as I progress
+I created this repo to document my journey in learning data science on Kaggle. I believe that learning from hands-on practice and real projects is the best way to understand concepts
+and this repo will be updated as I progress.
 
 📫 Contact me: nikenyudhaa22@gmail.com  
 
